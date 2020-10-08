@@ -63,4 +63,5 @@ tags:
 
 
 
-![avatar](https://cdn.nlark.com/yuque/0/2020/jpeg/759484/1591789171459-c2bdfb6b-9c16-43af-9de8-9c678503448f.jpeg?x-oss-process=image%2Fresize%2Cw_491)
+<img src="../img/post-642-002.jpeg">
+

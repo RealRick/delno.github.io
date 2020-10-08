@@ -45,4 +45,5 @@ tags:
 
 
 
-![avatar](https://cdn.nlark.com/yuque/0/2020/png/759484/1592052657728-51101507-9dfd-47ff-bc89-c3aa714d0805.png)
+<img src="../img/post-642-004.png">
+
