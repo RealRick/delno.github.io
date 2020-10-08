@@ -45,5 +45,5 @@ tags:
 
 
 
-<img src="../img/post-642-001.jpeg" height="500" width="500" >
+<img src="../img/post-642-001.jpeg" >
 
