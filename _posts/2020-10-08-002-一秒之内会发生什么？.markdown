@@ -3,7 +3,7 @@ layout:     post
 title:      "002 一秒之内会发生什么？"
 subtitle:   ""
 date:       2020-10-08 12:00:00
-author:     "MUNCH"
+author:     "Delno"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
@@ -60,3 +60,7 @@ tags:
 一秒之内会发生什么？
 
 陌上花开，可缓缓归矣。
+
+
+
+![avatar](https://cdn.nlark.com/yuque/0/2020/jpeg/759484/1591789171459-c2bdfb6b-9c16-43af-9de8-9c678503448f.jpeg?x-oss-process=image%2Fresize%2Cw_491)

@@ -3,7 +3,7 @@ layout:     post
 title:      "001 一株盆栽快死了，告诉它活下去的理由"
 subtitle:   ""
 date:       2020-10-08 12:00:00
-author:     "munch"
+author:     "Delno"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
@@ -43,5 +43,8 @@ tags:
 
 今晚家里应该没蚊子了。
 
-<img src="img/post-642-001.JPEG">
 
+
+
+
+![avatar](https://cdn.nlark.com/yuque/0/2020/jpeg/759484/1591719307938-0711474e-b0e3-4a76-9466-3e65db25aa39.jpeg)

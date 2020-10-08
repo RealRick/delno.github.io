@@ -3,7 +3,7 @@ layout:     post
 title:      "003 你是宇航员，描述你的完美一天。"
 subtitle:   ""
 date:       2020-10-08 12:00:00
-author:     "MUNCH"
+author:     "Delno"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:

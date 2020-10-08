@@ -3,11 +3,11 @@ layout:     post
 title:      "004 醒来之前你睡梦中的大脑在想什么？"
 subtitle:   ""
 date:       2020-10-08 12:00:00
-author:     "MUNCH"
+author:     "Delno"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
-    - 生活
+    - 故事
     - Meta
 ---
 
