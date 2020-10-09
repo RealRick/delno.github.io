@@ -61,5 +61,6 @@ tags:
 
 如果当天不能到家，也没关系，第二天也将会是完美的一天。
 
-<img src="../img/post-642-003.jpeg">
+
+<img src="https://realrick.github.io/img/post-642-003.jpeg" align="middle">
 
