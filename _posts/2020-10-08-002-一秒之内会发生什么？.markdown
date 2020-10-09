@@ -63,5 +63,5 @@ tags:
 
 
 
-<img src="../img/post-642-002.jpeg">
+<img src="https://realrick.github.io/img/post-642-002.jpeg" align="middle">
 
