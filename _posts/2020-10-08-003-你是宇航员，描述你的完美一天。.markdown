@@ -4,7 +4,7 @@ title:      "003 你是宇航员，描述你的完美一天。"
 subtitle:   ""
 date:       2020-10-08 12:00:00
 author:     "Delno"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/post-bg-2022.jpg"
 catalog: true
 tags:
     - 故事

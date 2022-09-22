@@ -4,7 +4,7 @@ title:      "001 一株盆栽快死了，告诉它活下去的理由"
 subtitle:   ""
 date:       2020-10-08 12:00:00
 author:     "Delno"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/post-bg-2022.jpg"
 catalog: true
 tags:
     - 故事

@@ -2,11 +2,11 @@
 
 
 
-Hi，我是 德尔斯诺 。
+Welcome to Delno Blog !
 
 
 
-博客更新ing
+更新ing
 
 
 
